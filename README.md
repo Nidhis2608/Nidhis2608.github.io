@@ -1,3 +1,3 @@
-# Aishu1123.github.io
+# Nidhis2608.github.io
 
-https://aishu1123.github.io/
+https://nidhis2608.github.io/
