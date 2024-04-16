@@ -252,7 +252,7 @@ section .title::after {
 
 .aboutmain .aboutmain-content .left .image_container {
   width: 80%;
- 
+  padding: 50px;
   margin: auto;
 }
 .aboutmain .aboutmain-content .left img {
