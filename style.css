@@ -399,6 +399,7 @@ section .title::after {
 }
 .projectcards .imageProject img {
   width: 100%;
+  border-radius: 30px;
 }
 .projectcards .textProject {
   width: 100%;
